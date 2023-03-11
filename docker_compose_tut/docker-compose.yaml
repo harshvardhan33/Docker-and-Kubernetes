@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  myflaskcontainer:
+    image: "flask_docker"
+    volumes:
+      - "D:/Harsh/Docker/docker_compose_tut/flask_docker/record.log:/app/record.log"
+    ports:
+      - "5000:5000"
