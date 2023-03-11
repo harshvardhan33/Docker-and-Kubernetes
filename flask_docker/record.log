@@ -1,0 +1,121 @@
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:view:Pymongo Function Start
+INFO:view:Exception occurred : some-mongo:27017: [Errno 11001] getaddrinfo failed, Timeout: 30s, Topology Description: <TopologyDescription id: 63c4168d1d425c61fcd05c2b, topology_type: Unknown, servers: [<ServerDescription ('some-mongo', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('some-mongo:27017: [Errno 11001] getaddrinfo failed')>]>
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 20:37:23] "POST /home HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\flask\\_compat.py', reloading
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 20:40:11] "[35m[1mPOST /home HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:view:Pymongo Function Start
+INFO:view:Exception occurred : Invalid URI scheme: URI must begin with 'mongodb://' or 'mongodb+srv://'
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 20:40:32] "POST /home HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:view:Pymongo Function Start
+INFO:view:Pymongo Function Stops
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 20:40:51] "POST /home HTTP/1.1" 200 -
+INFO:view:Pymongo Function Start
+INFO:view:Pymongo Function Stops
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 20:41:23] "POST /home HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_docker\\view.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:view:Pymongo Function Start
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pymongo\\settings.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pymongo\\mongo_client.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\http\\server.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\socketserver.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\threading.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:view:Pymongo Function Start
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pymongo\\settings.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\pymongo\\mongo_client.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\http\\server.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\socketserver.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\threading.py', reloading
+INFO:view:Pymongo Function Stops
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 09:35:15] "POST /home HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:view:Pymongo Function Start
+INFO:view:Pymongo Function Stops
+INFO:werkzeug:127.0.0.1 - - [21/Jan/2023 09:35:52] "POST /home HTTP/1.1" 200 -

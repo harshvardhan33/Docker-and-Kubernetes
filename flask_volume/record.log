@@ -1,0 +1,87 @@
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [04/Mar/2023 08:35:21] "POST /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Mar/2023 08:35:27] "POST /home HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_volume\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_volume\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_volume\\view.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [04/Mar/2023 08:36:00] "POST /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Mar/2023 08:36:10] "POST /home HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_volume\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_volume\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_volume\\view.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [04/Mar/2023 08:36:44] "POST /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Mar/2023 08:36:45] "POST /home HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_volume\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_volume\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_volume\\view.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_volume\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_volume\\view.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_volume\\view.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Harsh\\Flask\\flask_volume\\view.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [04/Mar/2023 08:39:47] "POST /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Mar/2023 08:39:48] "POST /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Mar/2023 08:39:55] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Mar/2023 08:40:04] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Mar/2023 08:40:09] "POST /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Mar/2023 08:40:12] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-236-323
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.29.201:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [04/Mar/2023 08:41:24] "POST /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Mar/2023 08:41:28] "GET /home HTTP/1.1" 200 -

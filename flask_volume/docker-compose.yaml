@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  myflaskcontainervolume:
+    build: .
+    volumes:
+      - "datavol:/app/datafolder"
+    ports:
+      - "80:5000"
+volumes:
+  datavol:

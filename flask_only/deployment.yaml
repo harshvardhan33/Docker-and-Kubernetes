@@ -1,0 +1,18 @@
+apiVersion: apps/v1 # we need to have a API version
+kind: Deployment # only certain set allowed (Service,Job)
+metadata: # you can add lot of metadata for your deployment
+  name: second-app-deployment # this is your deployment name
+spec: # config of deployment
+  replicas: 1 # number of pods you want
+  selector:
+    matchLabels: # list down labels you want to control
+      app: second-app
+
+  template: # this is your image for deployment
+    metadata:
+      labels: # you can add one or more labels
+        app: second-app # any key-value pair
+    spec: # config of pod
+      containers:
+        - name: second-node
+          image: harshvardhan33/practise-repo:flask_only
